@@ -1,0 +1,7 @@
+getFiles: remotefolder 
+This script copy a folder on windows to your local windows
+publishFile: localfolder remotefolder
+This script copy a folder on your local windows to a remote linux 
+
+Dependecies:
+    -putty
